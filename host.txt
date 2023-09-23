@@ -1,0 +1,8 @@
+[QUICKCHAT]
+SENDTOALL = no
+Key0 = RCtrl + P
+Msg0 = /w Eta !load twre
+Key1 = RCtrl + P
+Msg1 = /w Eta !pub m
+Key2 = RCtrl + P
+Msg2 = GameName: m
