@@ -1,0 +1,2 @@
+code=C:\Users\yourname\Documents\Warcraft III\CustomMapData\TWRPG\hermit.txt
+wfe=D:\GAMES\dota-eb\WFE2.27\
