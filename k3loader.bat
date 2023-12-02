@@ -36,7 +36,7 @@ type %k3path%host.txt >> WFEConfig.ini
 
 findstr "Load Code" "%codePath%" > temp.txt
 
-set COUNTER=3
+set COUNTER=10
 for /f "tokens=1,2 delims=:" %%a in (temp.txt) do (
   set x=%%b
   set y=!x:" )=!
